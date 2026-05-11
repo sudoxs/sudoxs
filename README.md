@@ -27,12 +27,11 @@
 ---
 
 ### 📡 SYSTEM ANALYSIS
-*(Statistics sync automatically with GitHub)*
+*(Real-time Operator Activity)*
 
 <p align="center">
   <a href="https://github.com/sudoxs">
-    <img src="https://github-readme-stats.vercel.app/api?username=sudoxs&show_icons=true&theme=tokyonight" width="49%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoxs&layout=compact&theme=tokyonight" width="49%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudoxs&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
