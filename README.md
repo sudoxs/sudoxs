@@ -1,49 +1,54 @@
-# ⚡ Offensive Security Operator | Go Developer
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=code&color=000000&height=150&section=header&text=sudoxs&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=kakaos&color=auto&height=200&section=header&text=SUDOXS&fontSize=80&animation=twinkling&fontColor=710193" />
 </p>
 
-### 👤 About Me
-- 🎯 **Current Focus:** Offensive Security Tradecraft & Automation.
-- 🛠️ **Working on:** Custom Tooling with **Golang** for Red Team Operations.
-- 🎓 **Certifications Path:** Grinding for **OSCP+** and **OSEP**.
-- 🚀 **Interests:** Raspberry Pi Hacking, Malware Evasion, and Post-Exploitation.
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20quieter%20you%20become,%20the%20more%20you%20are%20able%20to%20hear." />
+</p>
+
+## 🛡️ MISSION: OFFENSIVE OPERATIONS
+<p align="left">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-green?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/LEVEL-GRINDING%20OSCP%2B-purple?style=for-the-badge&logo=kali-linux" />
+  <img src="https://img.shields.io/badge/FOCUS-GO%20EXPLOIT%20DEV-blue?style=for-the-badge&logo=go" />
+</p>
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🧬 NEURAL INTERFACE (TECH STACK)
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,powershell,html,bash,linux,vscode,git,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=go,py,powershell,bash,linux,raspberrypi,docker,git,vscode,html,css&perline=6" />
   </a>
 </p>
 
-### 🛡️ Cybersecurity Interests
-`Active Directory Exploitation` | `AV/EDR Evasion` | `Automation Hacking` | `Initial Access`
-
 ---
 
-### 📊 GitHub Stats
+### 📡 SYSTEM ANALYSIS
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudoxs&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoxs&layout=compact&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sudoxs&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoxs&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sudoxs&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📂 Projects Overview
-*Self-developed tools and scripts across various environments:*
-- 🐍 **Python:** Automation and reconnaissance scripts.
-- 🐚 **PowerShell:** Post-exploitation and Windows environment enumeration.
-- 🕸️ **HTML/Web:** Web-based attack surfaces and frontend interfaces.
-- 🐹 **Golang:** High-performance offensive tooling (Current Focus).
+### 📂 DATABASE CLASSIFIED (PROJECTS)
+*   ☣️ **Custom Malware & Tooling:** High-performance Go binaries for Red Teaming.
+*   📜 **Field Notes:** Detailed OSCP+ & OSEP preparation logs.
+*   ⚡ **Legacy Scripts:** Automated reconnaissance in Python & PowerShell.
+*   🛠️ **Hardware:** Physical access tools via Raspberry Pi.
 
 ---
 
-### 📨 Connect
-*Everything here is for educational purposes and authorized security testing only.*
+### 🌐 ENCRYPTED CONNECTION
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=slice&color=710193&height=20&section=footer" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudoxs&label=Profile%20Views&color=000000&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sudoxs&label=ACCESS%20GRANTED&color=710193&style=flat-square" />
 </p>
