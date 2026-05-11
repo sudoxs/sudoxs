@@ -1,53 +1,51 @@
-# ⚡ SUDOXS | NEURAL LINK ESTABLISHED
+# ⚡ SUDOXS | OFFENSIVE OPERATOR
 
 <p align="center">
-  <img src="https://blog.sqlauthority.com/wp-content/uploads/2018/11/cyberpunk.gif" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=45&pause=1000&color=710193&center=true&vCenter=true&width=600&height=80&lines=SUDOXS;SYSTEM+COMPROMISED;ROOT+ACCESS+GRANTED" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&color=710193&center=true&vCenter=true&width=600&height=50&lines=>>>>+SYSTEM+COMPROMISED+<<<<;ACCESS+GRANTED:+ROOT;INITIAL+ACCESS+IN+PROGRESS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Initial+Access+Specialist;Golang+Exploit+Developer;OSCP%2B++In+Progress...;Welcome+to+my+Neural+Network" />
 </p>
 
-## 🛡️ OPERATOR PROFILE
+## 🛡️ MISSION: OFFENSIVE OPERATIONS
 <p align="left">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/TARGET-OSCP%2B-purple?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/CORE-GOLANG-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-green?style=for-the-badge&logo=hackthebox" />
+  <img src="https://img.shields.io/badge/LEVEL-GRINDING%20OSCP%2B-purple?style=for-the-badge&logo=kali-linux" />
+  <img src="https://img.shields.io/badge/GO-OFFENSIVE-blue?style=for-the-badge&logo=go" />
 </p>
 
 ---
 
 ### 🧬 NEURAL INTERFACE (TECH STACK)
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,powershell,bash,linux,raspberrypi,docker,git,vscode,html,css,github&perline=6" />
+    <img src="https://skillicons.dev/icons?i=go,py,powershell,bash,linux,raspberrypi,docker,git,vscode,html,css&perline=6" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5e.gif" width="100%">
-</p>
-
-### Satellite Uplink (Statistics)
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sudoxs&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📂 DATABASE CLASSIFIED
-* ☣️ **Exploit Dev:** `Golang` -> **TOP SECRET**
-* 🐍 **Automation:** `Python` -> **HIGH**
-* 🐚 **Post-Exploit:** `PowerShell` -> **CONFIDENTIAL**
-* 🛠️ **Hardware:** `Raspberry Pi` -> **RESTRICTED**
+### 📡 SYSTEM ANALYSIS
+*(Real-time Operator Activity)*
+
+<p align="center">
+  <a href="https://github.com/sudoxs">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudoxs&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 📂 DATABASE CLASSIFIED (PROJECTS)
+* ☣️ **Custom Malware & Tooling:** High-performance Go binaries.
+* 📜 **Field Notes:** Detailed OSCP+ & OSEP preparation logs.
+* ⚡ **Legacy Scripts:** Automated reconnaissance in Python & PowerShell.
+* 🛠️ **Hardware:** Physical access tools via Raspberry Pi.
 
 ---
 
 ### 🌐 ENCRYPTED CONNECTION
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudoxs&label=DECRYPTED%20VIEWS&color=710193&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <img src="https://komarev.com/ghpvc/?username=sudoxs&label=ACCESS%20GRANTED&color=710193&style=for-the-badge" />
 </p>
