@@ -8,12 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Initial+Access+Specialist;Exploit+Developer;Exploit++In+Progress...;Welcome+to+my+Neural+Network" />
 </p>
 
-## 🛡️ MISSION: OFFENSIVE OPERATIONS
-<p align="left">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-green?style=for-the-badge&logo=hackthebox" />
-  <img src="https://img.shields.io/badge/GO-OFFENSIVE-blue?style=for-the-badge&logo=go" />
-</p>
-
 ---
 
 ### 🧬 NEURAL INTERFACE (TECH STACK)
@@ -26,7 +20,6 @@
 ---
 
 ### 📡 SYSTEM ANALYSIS
-*(Real-time Operator Activity)*
 
 <p align="center">
   <a href="https://github.com/sudoxs">
@@ -38,13 +31,8 @@
 
 ### 📂 DATABASE CLASSIFIED (PROJECTS)
 * ☣️ **Custom Malware & Tooling:** High-performance Go binaries.
-* 📜 **Field Notes:** Detailed OSCP+ & OSEP preparation logs.
 * ⚡ **Legacy Scripts:** Automated reconnaissance in Python & PowerShell.
 * 🛠️ **Hardware:** Physical access tools via Raspberry Pi.
 
 ---
 
-### 🌐 ENCRYPTED CONNECTION
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudoxs&label=ACCESS%20GRANTED&color=710193&style=for-the-badge" />
-</p>
