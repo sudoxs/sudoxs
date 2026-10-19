@@ -30,7 +30,7 @@
 ---
 
 ### 📂 DATABASE CLASSIFIED (PROJECTS)
-* ☣️ **Custom Malware & Tooling:** High-performance Go binaries.
+* ☣️ **Custom Malware & Tooling:** High-performance binaries.
 * ⚡ **Legacy Scripts:** Automated reconnaissance in Python & PowerShell.
 * 🛠️ **Hardware:** Physical access tools via Raspberry Pi.
 
