@@ -11,7 +11,6 @@
 ## 🛡️ MISSION: OFFENSIVE OPERATIONS
 <p align="left">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-green?style=for-the-badge&logo=hackthebox" />
-  <img src="https://img.shields.io/badge/LEVEL-GRINDING%20OSCP%2B-purple?style=for-the-badge&logo=kali-linux" />
   <img src="https://img.shields.io/badge/GO-OFFENSIVE-blue?style=for-the-badge&logo=go" />
 </p>
 
