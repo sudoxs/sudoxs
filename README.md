@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Initial+Access+Specialist;Golang+Exploit+Developer;OSCP%2B++In+Progress...;Welcome+to+my+Neural+Network" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Initial+Access+Specialist;Exploit+Developer;Exploit%2B++In+Progress...;Welcome+to+my+Neural+Network" />
 </p>
 
 ## 🛡️ MISSION: OFFENSIVE OPERATIONS
