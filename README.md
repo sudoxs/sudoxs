@@ -14,58 +14,6 @@
 
 ---
 
-## Featured Projects
-
-### SQL Injection Testing Toolkit
-
-A Python-based toolkit for authorized web application SQL injection testing.
-
-- Tests URL parameters, POST fields, cookies, and headers.
-- Includes Boolean-based, error-based, and time-based testing workflows.
-- Provides UNION-related testing helpers and payload transformations.
-- Supports optional browser inspection through Playwright.
-
-[View Repository](https://github.com/sudoxs/SQL_Injection_tool)
-
-### Reverse Shell Generator
-
-A browser-based tool built with JavaScript, HTML, and CSS.
-
-- Generates shell command templates for different environments.
-- Supports encoding options and downloadable output.
-- Uses a responsive interface with local configuration storage.
-
-[View Repository](https://github.com/sudoxs/reverse-shell-generator)
-[Live Demo](https://sudoxs.github.io/reverse-shell-generator/)
-
-### Tprotocol
-
-A Python desktop application for configurable protocol testing.
-
-- Tkinter-based graphical interface.
-- Configurable protocol and test parameters.
-- Concurrent test execution.
-- Result collection and HTML report generation.
-
-[View Repository](https://github.com/sudoxs/Tprotocol)
-
-## Technical Interests
-
-- Python development and automation
-- JavaScript and web development
-- Web application security
-- Network and protocol testing
-- Secure software engineering
-- Offensive security research
-
-## Security Practice
-
-I continuously develop my practical security skills through hands-on platforms and lab environments.
-
-- Completed Hack The Box Pro Labs: Dante.
-- Practice on Standoff 365.
-- Document technical findings and reusable security notes.
-
 ## Technologies
 
 <p>
